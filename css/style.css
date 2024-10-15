@@ -365,6 +365,7 @@ section {
 }
 .about-img {
   flex: 1;
+  margin-bottom: 40px;
 }
 .about-img img {
   width: 500px;
